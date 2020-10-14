@@ -1,0 +1,22 @@
+
+.bg-dark{
+    /* background-color: #343a40!important; */
+    background-color: #F5FFFA!important;
+
+    display: block;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background: url(../imgs/bg.jpg) no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+
+.box-img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    /* width="100" height="auto" style="max-width: 100%" */
+  }

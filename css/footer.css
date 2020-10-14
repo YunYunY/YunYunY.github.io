@@ -1,0 +1,10 @@
+.footer-social-icons {
+    padding: 1rem;
+    background: dark-gray;
+    display: flex;
+    align-items: center;
+    justify-content:space-between}
+
+.social-icons {
+        margin-top: 10px;
+    }
